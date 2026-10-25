@@ -1,25 +1,80 @@
-# CS | Data & Automation — Portafolio
+# CS | Data & Automation
 
-Sitio estático personal listo para publicar con GitHub Pages. Incluye cuatro casos de estudio, formación y una demostración interactiva de indicadores con datos **100 % ficticios**.
+**Portafolio profesional de análisis de datos, inteligencia operacional y automatización de procesos.**
 
-## Publicación en GitHub Pages
-1. Inicia sesión en GitHub con la cuenta `cristhian-soto-j` (comprueba el usuario exacto).
-2. Crea un repositorio **público** llamado `cristhian-soto-j.github.io` (si el nombre de usuario es ese). No subas datos confidenciales.
-3. Sube `index.html` a la raíz del repositorio y haz commit.
-4. En **Settings > Pages**, elige **Deploy from a branch**, rama `main`, carpeta `/ (root)` y guarda.
-5. Espera a que GitHub publique el sitio y comprueba la URL `https://cristhian-soto-j.github.io/`. No uses esta URL en una postulación hasta que abra correctamente.
+[🌐 Ver portafolio publicado](https://cristhian-soto-j.github.io/) · [💻 Perfil de GitHub](https://github.com/cristhian-soto-j) · [🏢 PRO MINGEO](https://www.promingeo.cl/)
 
-Si prefieres un repositorio con otro nombre, GitHub Pages normalmente publicará en `https://USUARIO.github.io/NOMBRE-REPO/`.
+## Sobre el portafolio
 
-## Antes de publicar
-- Verifica nombres, estudios, experiencia, métricas y que el enlace de GitHub sea correcto.
-- Agrega LinkedIn y correo profesional si deseas mostrarlos.
-- Confirma que los indicadores agregados del portafolio pueden compartirse públicamente.
-- Los PDF originales NO se incluyen: contienen patentes, identificadores internos y elementos corporativos.
-- Las certificaciones mencionadas pueden validarse con los archivos originales; no subas certificados que contengan identificadores personales sin revisarlos.
+Soy Ingeniero en Minas con experiencia en control operacional, análisis de información y mejora de procesos. Este sitio reúne casos de estudio de mi experiencia profesional, proyectos de digitalización y un laboratorio donde publicaré nuevas soluciones de análisis de datos y automatización.
 
-## Cómo ampliar
-- Sustituir casos por versiones con capturas **anonimizadas**.
-- Incorporar un proyecto SQL reproducible, con dataset sintético y consultas comentadas.
-- Crear automatizador de reportes en Python y enlazar su repositorio.
-- Añadir demo interactiva de equipos y mantenimiento.
+Mi objetivo es conectar el conocimiento de procesos reales con herramientas tecnológicas para transformar registros en información útil y reducir tareas manuales.
+
+## Proyectos destacados
+
+| Proyecto | Descripción | Tecnologías / enfoque | Estado |
+|---|---|---|---|
+| **Dashboard de producción** | Indicadores de tonelaje, viajes, rendimiento por viaje y evolución diaria de la producción. | Power BI · KPIs · Visualización | Caso profesional documentado |
+| **Seguimiento de horas de maquinaria** | Análisis de horas registradas, distribución por tipo de equipo y seguimiento temporal. | Power BI · Control operacional | Caso profesional documentado |
+| **Seguimiento digital de equipos** | Herramienta interna para centralizar estados de equipos y facilitar validación y trazabilidad de registros. | Digitalización · Validación de datos · Procesos | Caso profesional documentado |
+| **SIOM Lite / Mina BI** | Iniciativa de soluciones para gestión operacional, indicadores y control de equipos y costos. | Diseño de soluciones · BI | En desarrollo |
+
+Los casos profesionales se describen con información agregada o anonimizada. No se publican datos internos, identificadores de equipos, código propietario ni bases de datos empresariales.
+
+## Demostración interactiva
+
+El sitio incluye una demostración de **producción por turno**, desarrollada con JavaScript, que permite:
+
+- Filtrar entre todos los turnos, día y noche.
+- Recalcular toneladas, número de viajes y promedio de toneladas por viaje.
+- Actualizar visualmente las barras de producción.
+
+**Importante:** todos los datos de la demostración son ficticios y no representan información real de una empresa.
+
+[Probar la demostración](https://cristhian-soto-j.github.io/#demo)
+
+## Herramientas y competencias
+
+- **Análisis y visualización:** Power BI, Excel, indicadores KPI y reportería.
+- **Programación y datos:** Python y fundamentos de SQL, actualmente en perfeccionamiento.
+- **Procesos:** control operacional, seguimiento de equipos, validación de registros y automatización de reportes.
+
+## Formación
+
+- Ingeniería en Minas.
+- Ingeniería Civil Industrial — Universidad de Santiago de Chile (estudios en curso).
+- Data Analyst con Python — Desafío Latam, 258 horas (2025).
+- Programación con Python para análisis de datos — 76 horas.
+- SQL para análisis de datos — 62 horas.
+- Visualización y comunicación de insights — 10 horas.
+
+Las certificaciones por módulo forman parte de la trayectoria formativa; sus horas no se presentan como adicionales al programa completo.
+
+## Tecnologías del sitio
+
+La versión inicial utiliza **HTML, CSS y JavaScript**, sin dependencias externas ni backend. Está alojada gratuitamente en **GitHub Pages**.
+
+```text
+cristhian-soto-j.github.io/
+├── index.html    # Página principal y demo interactiva
+└── README.md     # Documentación del portafolio
+```
+
+## Próximas mejoras
+
+- [ ] Incorporar capturas anonimizadas de dashboards profesionales.
+- [ ] Crear páginas de detalle con problema, enfoque, solución y resultados de cada caso.
+- [ ] Añadir enlaces profesionales de contacto.
+- [ ] Publicar un proyecto SQL reproducible con datos sintéticos.
+- [ ] Construir un automatizador de reportes con Python.
+- [ ] Ampliar el laboratorio con nuevas demostraciones interactivas.
+
+## Publicación y actualización
+
+Este repositorio se publica desde la rama `main` y la carpeta raíz mediante GitHub Pages. Cada actualización del archivo `index.html` en esa rama puede desplegar una nueva versión del sitio.
+
+Para contribuir a la documentación o mantenerla actualizada, editar `README.md` y confirmar los cambios mediante un commit.
+
+---
+
+**Portafolio personal en evolución.** Los proyectos nuevos se incorporarán a medida que estén desarrollados, documentados y verificados.
