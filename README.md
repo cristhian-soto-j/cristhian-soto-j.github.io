@@ -60,6 +60,16 @@ cristhian-soto-j.github.io/
 └── README.md     # Documentación del portafolio
 ```
 
+## Versión 2: recursos incorporados
+
+- Portada personal con fotografía profesional.
+- CV descargable en formato DOCX.
+- Contacto: correo, LinkedIn, GitHub y PRO MINGEO.
+- Universidad de Las Américas y USACH, junto con especialización de Desafío Latam.
+- Tres capturas del prototipo SIOM Lite (PDF de demostración) en formato WebP.
+
+**Importante:** las capturas de SIOM Lite son material de demostración, no evidencia de una instalación productiva. Los casos de operaciones reales se describen por separado.
+
 ## Próximas mejoras
 
 - [ ] Incorporar capturas anonimizadas de dashboards profesionales.
