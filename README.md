@@ -93,3 +93,8 @@ Para contribuir a la documentación o mantenerla actualizada, editar `README.md`
 ## V2.1 — Credenciales oficiales
 
 Se agregó una sección de certificaciones con enlaces directos a las páginas de verificación de Desafío Latam, sin subir los PDF al repositorio. Se incorporaron iconos vectoriales para LinkedIn, GitHub y correo, y la marca PRO MINGEO en contacto. Los logotipos oficiales de UDLA, USACH y Desafío Latam siguen pendientes de obtener de fuentes institucionales autorizadas; sus monogramas se mantienen de forma provisional.
+
+## V2.2
+- Logos institucionales UDLA y USACH cargados desde fuentes web externas, con texto alternativo si fallan.
+- Logo Desafío Latam extraído del certificado oficial aportado por el titular y almacenado localmente.
+- Icono vectorial propio de análisis de datos en la tarjeta de habilidades.
